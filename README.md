@@ -18,7 +18,7 @@ Olá, eu sou o Rodrigo Moutinho.
   <img align="center" alt="Rod-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   <img align="center" alt="Rod-Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg">
   
-  <img align="right" alt="Rod-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/321844171360960515/948405165545881701/Webp.net-gifmaker.gif">
+  <img align="right" alt="Rod-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/cb/16/c9/cb16c926c83b7b5b1331b3b0d5c44e29.gif">
 </div>
   
   ##
