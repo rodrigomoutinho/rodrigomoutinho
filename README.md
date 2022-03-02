@@ -6,7 +6,7 @@ Olá, eu sou o Rodrigo Moutinho.
 <div align="center">
   <a href="https://github.com/rodrigomoutinho">
   <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=rodrigomoutinho&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomoutinho&layout=compact&langs_count=7&theme=neon"/>
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomoutinho&layout=compact&langs_count=7&theme=neon"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rod-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
