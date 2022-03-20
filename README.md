@@ -1,7 +1,7 @@
 Olá, eu sou o Rodrigo Moutinho.
 
 - 🔭 Hoje estudo Programação e Direito
-- 🌱 Estudando PHP, REACT, JS, TYPESCRIPT, PYTHON, LARAVEL e mais algumas ai :P
+- 🌱 Estudando ATUALMENTE Jquery, Bootstrap, Node.js, Vue,js, React, Electron e Angular.
 
 <div align="center">
   <a href="https://github.com/rodrigomoutinho">
@@ -14,7 +14,6 @@ Olá, eu sou o Rodrigo Moutinho.
   <img align="center" alt="Rod-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rod-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rod-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rod-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rod-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   <img align="center" alt="Rod-Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg">
   
