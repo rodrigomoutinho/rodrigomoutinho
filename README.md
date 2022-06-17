@@ -1,8 +1,7 @@
 Olá, eu sou o Rodrigo Moutinho.
 
-- 🔭 Hoje estudo Programação e to praticamente formado em Direito.
-- 🌱 Estudando ATUALMENTE Jquery, Bootstrap, Node.js, Vue,js, React, Electron, Angular e Java pelo Start By Capgemini
--  IFSP
+- 🔭 Estudante de Desenvolvimento de Sistemas pelo SENAI e BICT pela UFBA. Formado em Direito =)
+- 🌱 PHP, Laravel, Java, JavaScript, Python, MySQL, MongoDB.
 
 <div align="center">
   <a href="https://github.com/rodrigomoutinho">
