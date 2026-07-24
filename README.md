@@ -1,6 +1,6 @@
-Olá, eu sou o Rodrigo Moutinho.
+9lOlá, eu sou o Rodrigo Moutinho.
 
-- 🔭 Estudante de Desenvolvimento de Sistemas pelo SENAI e BICT pela UFBA. Formado em Direito =)
+- 🔭 Formado em Desenvolvimento de Sistemas pelo SENAI e finalizando a graduação de Sistemas de Informação. 
 - 🌱 PHP, Laravel, Java, JavaScript, Python, MySQL, MongoDB.
 
 <div align="center">
